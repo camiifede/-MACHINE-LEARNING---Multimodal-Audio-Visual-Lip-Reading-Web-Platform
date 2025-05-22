@@ -3,9 +3,13 @@ A full-stack web application that integrates AV-HuBERT, a state-of-the-art audio
 
 # Features
 • A multimodal pipeline using Python, PyTorch, OpenCV, and FFmpeg for audio/visual preprocessing, model inference, and transcript generation.
+
 • A PHP/MySQL backend for user management, data persistence, and real-time feedback collection; frontend built with HTML, CSS, JavaScript for transcript editing and data visualization.
+
 • Enabled users to review, annotate, and correct transcriptions, contributing to the creation of high-quality datasets for future model fine-tuning.
+
 • Integrated support for GDPR compliance, including data ownership, deletion, and consent tracking.
+
 • Conducted extensive testing on non-frontal views, noisy audio, and lip-only inputs, demonstrating model robustness and highlighting limitations in deepfake detection and homophone disambiguation.
 
 # User dashboard
